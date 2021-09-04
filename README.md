@@ -44,8 +44,8 @@ function showName(name){
 ```
 ```css
 .titulo{
-    background: #FFF
-    color: #FF0000
+    background: #FFF;
+    color: #FF0000;
 }
 ```
 ### Redes Sociais
