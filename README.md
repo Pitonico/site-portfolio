@@ -3,11 +3,6 @@
 # Bem vindo ao curso Git n Github
 Aqui você irá dominar **git n github** do _começo ao fim_
 
-**Checklist**
-- [x] Site responsivo
-- [ ] Login com facebook
-- [ ] Página com a empresa
-
 ## Módulo Não Ordenado
 * Git
 * Aprendendo sobre branches
@@ -21,6 +16,14 @@ Aqui você irá dominar **git n github** do _começo ao fim_
 3. GIT avançado
 4. Github profissional
 
+**Checklist**
+- [x] Site responsivo
+- [ ] Login com facebook
+- [ ] Página com a empresa
+### Redes Sociais
+[Youtube](https://youtube.com/)
+    
+[Github](https://github.com/)
 #### Blockquote
 > Este é um blockquote, usado para destacar alguma area
 >
@@ -53,7 +56,11 @@ function showName(name){
     color: #FF0000;
 }
 ```
-### Redes Sociais
-[Youtube](https://youtube.com/)
+#### Tabela
+Propriedade|Descrição
+-|-
+name|Informar o nome do usuário
+size|Definir o tamanho do campo
+background|Cor de fundo da area em HEX
+onPress|Função de callback quando clicar no botão 
 
-[Github](https://github.com/)
