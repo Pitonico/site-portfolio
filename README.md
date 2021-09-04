@@ -3,6 +3,11 @@
 # Bem vindo ao curso Git n Github
 Aqui você irá dominar **git n github** do _começo ao fim_
 
+**Checklist**
+- [x] Site responsivo
+- [ ] Login com facebook
+- [ ] Página com a empresa
+
 ## Módulo Não Ordenado
 * Git
 * Aprendendo sobre branches
