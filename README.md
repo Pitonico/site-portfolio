@@ -1,14 +1,26 @@
 ![Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
+[Bem vindo](#bem-vindo-ao-curso-git-n-github) |
+[Módulos](#listas) |
+[Tasklist](#checklist) |
+[Redes Sociais](#redes-sociais) |
+[Blockquote](#blockquote) |
+[Trecho de Código](#trecho-de-código) |
+[Tabela](#tabela)
+
+
 # Bem vindo ao curso Git n Github
 Aqui você irá dominar **git n github** do _começo ao fim_
 
-## Módulo Não Ordenado
+## Listas
+**Ordenado**
 * Git
 * Aprendendo sobre branches
 * GIT avançado
 * Github profissional
-## Módulo Ordenado
+
+**Não Ordenado**
+
 1. Git
     1. O que é
     2. Como instalar
@@ -16,7 +28,7 @@ Aqui você irá dominar **git n github** do _começo ao fim_
 3. GIT avançado
 4. Github profissional
 
-**Checklist**
+### Checklist
 - [x] Site responsivo
 - [ ] Login com facebook
 - [ ] Página com a empresa
